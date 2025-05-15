@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hello, my name is Eric. I am currently working on the Odin Project courses, and learning Harvard's CS50 material.
+
+
 <!--
 **Sgtkeebs/Sgtkeebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
